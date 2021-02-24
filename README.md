@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/globalbioticinteractions/ummzi.svg)](https://travis-ci.com/globalbioticinteractions/ummzi) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ummzi)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ummzi) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/ummzi.svg)](https://travis-ci.com/EMTuckerLabUMMZ/ummzi) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:EMTuckerLabUMMZ/ummzi)](http://globalbioticinteractions.org/?accordingTo=globi:EMTuckerLabUMMZ/ummzi) 
 
 
 Configuration to help make the parasite-host records in collection of the University of Michigan Museum of Zoology Division of Insects available through Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
